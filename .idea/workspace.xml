@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="53c9e32a-314f-43ab-805a-b21483d81bc6" name="Changes" comment="" />
+    <list default="true" id="53c9e32a-314f-43ab-805a-b21483d81bc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/diagramm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/physical/DynamicPunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/physical/DynamicPunch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/physical/Superpower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/physical/Superpower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/special/AncientPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/special/AncientPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/special/MudBomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/special/MudBomb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/special/Thunderbolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/special/Thunderbolt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/status/Amnesia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/Amnesia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/status/BabyDollEyes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/BabyDollEyes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/status/DoubleTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/DoubleTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/status/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/Rest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/status/ScaryFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/ScaryFace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moves/status/Swagger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/Swagger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokemons/Eevee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Eevee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokemons/Jolteon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Jolteon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokemons/Mamoswine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Mamoswine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokemons/Pheromosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Pheromosa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokemons/Piloswine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Piloswine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokemons/Swinub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Swinub.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="xml" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FUQoIpiKuVIFIapmgM1Vj0zkN6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +52,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/IDEjava/Lab2/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IDEjava\Lab2\lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="moves" />
+      <recent name="physical" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab2" />
+      <module name="Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +97,16 @@
       <updated>1664544358209</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
