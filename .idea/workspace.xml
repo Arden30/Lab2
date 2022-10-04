@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53c9e32a-314f-43ab-805a-b21483d81bc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/diagramm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/physical/DynamicPunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/physical/DynamicPunch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/physical/Superpower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/physical/Superpower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/special/AncientPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/special/AncientPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/special/MudBomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/special/MudBomb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/special/Thunderbolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/special/Thunderbolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/status/Amnesia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/Amnesia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/status/BabyDollEyes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/BabyDollEyes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/status/DoubleTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/DoubleTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/status/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/Rest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/status/ScaryFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/ScaryFace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/status/Swagger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/Swagger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pokemons/Eevee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Eevee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pokemons/Jolteon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Jolteon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pokemons/Mamoswine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Mamoswine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pokemons/Pheromosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Pheromosa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pokemons/Piloswine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Piloswine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pokemons/Swinub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokemons/Swinub.java" afterDir="false" />
+    <list default="true" id="53c9e32a-314f-43ab-805a-b21483d81bc6" name="Changes" comment="Add diagramm">
+      <change beforePath="$PROJECT_DIR$/src/diagramm.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/diagramm.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664544358209</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add diagramm">
+      <created>1664878219577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664878219577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add diagramm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add diagramm" />
   </component>
 </project>
