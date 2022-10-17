@@ -9,7 +9,7 @@ import ru.ifmo.se.pokemon.Type;
 public class Mamoswine extends Piloswine {
     public Mamoswine(String name, int level)  {
         super(name, level);
-        super.setStats(110, 130, 80, 70, 60, 80);
-        super.addMove(new ScaryFace());
+        setStats(110, 130, 80, 70, 60, 80);
+        addMove(new ScaryFace());
     }
 }

@@ -9,8 +9,8 @@ import ru.ifmo.se.pokemon.Type;
 public class Eevee extends Pokemon {
     public Eevee(String name, int level)  {
         super(name, level);
-        super.setType(Type.NORMAL);
-        super.setStats(55, 55, 50, 45, 65, 55);
-        super.setMove(new Swagger(), new BabyDollEyes(), new DoubleTeam());
+        setType(Type.NORMAL);
+        setStats(55, 55, 50, 45, 65, 55);
+        setMove(new Swagger(), new BabyDollEyes(), new DoubleTeam());
     }
 }
