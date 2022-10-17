@@ -13,8 +13,8 @@ public class Swagger extends StatusMove {
 
     @Override
     protected void applyOppEffects(Pokemon p) {
-        super.applyOppEffects(p);
         Effect.confuse(p);
+        super.applyOppEffects(p);
     }
 
     @Override

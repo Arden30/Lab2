@@ -8,11 +8,11 @@ public class Rest extends StatusMove {
     }
 
     @Override
-    protected void applyOppEffects(Pokemon p) {
+    protected void applySelfEffects(Pokemon p) {
         Effect e = new Effect().turns(2).condition(Status.SLEEP);
         p.addEffect(e);
         p.restore();
-        super.applyOppEffects(p);
+        super.applySelfEffects(p);
     }
 
     @Override
