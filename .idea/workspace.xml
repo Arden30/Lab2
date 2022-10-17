@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53c9e32a-314f-43ab-805a-b21483d81bc6" name="Changes" comment="Changes in pokemons2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moves/status/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moves/status/Rest.java" afterDir="false" />
-    </list>
+    <list default="true" id="53c9e32a-314f-43ab-805a-b21483d81bc6" name="Changes" comment="Changes in moves" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664544358209</updated>
-      <workItem from="1666040850013" duration="1109000" />
+      <workItem from="1666040850013" duration="1455000" />
     </task>
     <task id="LOCAL-00001" summary="Add diagramm">
       <created>1664878219577</created>
@@ -112,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666008758171</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changes in moves">
+      <created>1666042283982</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666042283982</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +137,7 @@
     <MESSAGE value="Correct diagramm" />
     <MESSAGE value="Changes in pokemons" />
     <MESSAGE value="Changes in pokemons2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes in pokemons2" />
+    <MESSAGE value="Changes in moves" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in moves" />
   </component>
 </project>
